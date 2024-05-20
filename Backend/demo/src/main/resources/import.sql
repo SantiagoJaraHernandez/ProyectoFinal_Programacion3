@@ -1,0 +1,5 @@
+INSERT INTO clientes (nombre, apellido, email, fecha_vencimiento) VALUES('Julian','Quimbayo','julian.quimbayo@corhuila.edu.co','2024-03-12')
+INSERT INTO clientes (nombre, apellido, email, fecha_vencimiento) VALUES('Julian','Quimbayo','julian.quimbayo@corhuila.edu.co','2024-03-12')
+INSERT INTO clientes (nombre, apellido, email, fecha_vencimiento) VALUES('Julian','Quimbayo','julian.quimbayo@corhuila.edu.co','2024-03-12')
+INSERT INTO clientes (nombre, apellido, email, fecha_vencimiento) VALUES('Julian','Quimbayo','julian.quimbayo@corhuila.edu.co','2024-03-12')
+INSERT INTO clientes (nombre, apellido, email, fecha_vencimiento) VALUES('Julian','Quimbayo','julian.quimbayo@corhuila.edu.co','2024-03-12')
